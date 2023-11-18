@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function passwordreset() {
+export default function PasswordReset() {
   return (
-    <div>password-reset</div>
+    <div>PasswordReset</div>
   )
 }
